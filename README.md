@@ -1,4 +1,4 @@
-This repository includes 19 structured data assets used across different algorithmic benchmarks. This repository serves as a portfolio compilation of machine learning projects I developed locally between December 2023 and October 2024. It was migrated to GitHub in May 2026 for documentation and review purposes.
+This repository includes several structured data assets used across different algorithmic benchmarks. This repository serves as a portfolio compilation of machine learning projects I developed locally between December 2023 and October 2024. It was migrated to GitHub in May 2026 for documentation and review purposes.
 
 
 # Custom Implementation of Machine Learning Algorithms
